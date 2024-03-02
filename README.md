@@ -27,4 +27,4 @@ for dataset .
 eye disease recognition system has wied potential across variour type of eye disease domains, beacuse of as we know that eye is most important part of our body ,if some region any person loss their eyes they have to face many issue . 
 os by developing an efficient eye disease recognition system , we contribute to the advancement of this technology making it more accesible and reliable
 
-
+youtube video:- https://youtu.be/0i5pyRdgh1A
